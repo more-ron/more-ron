@@ -1,0 +1,5 @@
+= more-ron
+
+Generate this with
+    more-ron rdoc
+After you have described your command line interface
